@@ -1,0 +1,546 @@
+{
+  "OFX": {
+    "SIGNONMSGSRSV1": {
+      "SONRS": {
+        "STATUS": { "CODE": "0", "SEVERITY": "INFO" },
+        "DTSERVER": "20230917000000[-3:GMT]",
+        "LANGUAGE": "POR"
+      }
+    },
+    "CREDITCARDMSGSRSV1": {
+      "CCSTMTTRNRS": {
+        "TRNUID": "1001",
+        "STATUS": { "CODE": "0", "SEVERITY": "INFO" },
+        "CCSTMTRS": {
+          "CURDEF": "BRL",
+          "CCACCTFROM": { "ACCTID": "54a29af4-0e5a-4b8a-9109-745772e4145d" },
+          "BANKTRANLIST": {
+            "DTSTART": "20230803000000[-3:GMT]",
+            "DTEND": "20230903000000[-3:GMT]",
+            "STMTTRN": [
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230902000000[-3:GMT]",
+                "TRNAMT": "-22.14",
+                "FITID": "64f21467-687f-4471-b295-56e4cc2e237e",
+                "MEMO": "Filial Mega I"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230902000000[-3:GMT]",
+                "TRNAMT": "-266.49",
+                "FITID": "64f214d8-1491-4a07-b36f-6dfd1df065ca",
+                "MEMO": "Filial Mega I"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230902000000[-3:GMT]",
+                "TRNAMT": "-52.94",
+                "FITID": "64f1d12e-02a4-4db4-a142-bd571b9a0fa2",
+                "MEMO": "Amazon 1/2"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230901000000[-3:GMT]",
+                "TRNAMT": "-4.90",
+                "FITID": "64f149f7-e533-4690-8827-67ec12e06d26",
+                "MEMO": "Apple.Com/Bill"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230831000000[-3:GMT]",
+                "TRNAMT": "-32.85",
+                "FITID": "64efb0f4-3401-410a-836f-fa9b6d388a04",
+                "MEMO": "Point das Bebidas"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230831000000[-3:GMT]",
+                "TRNAMT": "-29.90",
+                "FITID": "64efb622-890a-4c2a-92d6-8a957a9df720",
+                "MEMO": "Apple.Com/Bill"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230831000000[-3:GMT]",
+                "TRNAMT": "-9.90",
+                "FITID": "64ef7a64-111b-4adb-bf36-067fdd389cf3",
+                "MEMO": "Apple.Com/Bill"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230831000000[-3:GMT]",
+                "TRNAMT": "-100.00",
+                "FITID": "64efd332-bec3-47bb-b931-25bb8f64a71a",
+                "MEMO": "Loucoporsushi"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230829000000[-3:GMT]",
+                "TRNAMT": "-39.99",
+                "FITID": "64ee8487-90a6-403b-901b-c108f60b36b0",
+                "MEMO": "iFood"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230828000000[-3:GMT]",
+                "TRNAMT": "-122.70",
+                "FITID": "64eb6e08-51e6-4a79-8964-aa7da9be1c1e",
+                "MEMO": "Galeto Prensado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230827000000[-3:GMT]",
+                "TRNAMT": "-38.39",
+                "FITID": "64ea938b-4a57-4b3c-a6fa-df75b6f7fea2",
+                "MEMO": "Assai Atacadista"
+              },
+              {
+                "TRNTYPE": "CREDIT",
+                "DTPOSTED": "20230827000000[-3:GMT]",
+                "TRNAMT": "16.90",
+                "FITID": "64eb0132-16d4-4385-ac02-e64281c3f4ed",
+                "MEMO": "Estorno de \"Amazon Prime Canais\""
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230827000000[-3:GMT]",
+                "TRNAMT": "-15.98",
+                "FITID": "64ea8af3-0851-4ff8-9f25-03b22cb16843",
+                "MEMO": "Drogaria Ftb Atalaia"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230825000000[-3:GMT]",
+                "TRNAMT": "-40.85",
+                "FITID": "64e779dd-d296-49db-92bd-4895f0d402db",
+                "MEMO": "Rest Aconchego"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230824000000[-3:GMT]",
+                "TRNAMT": "-39.52",
+                "FITID": "64e62363-a415-4fd9-8ecf-2f219f38f2bf",
+                "MEMO": "Farmacia do Trabalhado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230824000000[-3:GMT]",
+                "TRNAMT": "-27.66",
+                "FITID": "64e6d70c-735d-4b43-8ae8-59637bfd6ac9",
+                "MEMO": "Farmacia Poupe Mais 1/3"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230824000000[-3:GMT]",
+                "TRNAMT": "-9.90",
+                "FITID": "64e69fce-da4d-4bc9-8bb1-6eb4182e1c3c",
+                "MEMO": "Apple.Com/Bill"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230824000000[-3:GMT]",
+                "TRNAMT": "-12.28",
+                "FITID": "64e6691a-7fa7-493f-bf8b-82d9281f3864",
+                "MEMO": "Elisa Supermercado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230824000000[-3:GMT]",
+                "TRNAMT": "-35.00",
+                "FITID": "64e7d2a3-76c8-4d76-8693-3e79121521a3",
+                "MEMO": "iFood"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230823000000[-3:GMT]",
+                "TRNAMT": "-35.00",
+                "FITID": "64e6766e-ac84-43d1-84da-b8421597e3e3",
+                "MEMO": "iFood"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230823000000[-3:GMT]",
+                "TRNAMT": "-16.90",
+                "FITID": "64e4e6a5-f7d5-42fb-b3df-b1fb900bdfc8",
+                "MEMO": "Amazon Prime Canais"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230822000000[-3:GMT]",
+                "TRNAMT": "-137.75",
+                "FITID": "64e3da6d-1ae4-4896-8418-2cb4fee865ab",
+                "MEMO": "Pague Menos 1/2"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230821000000[-3:GMT]",
+                "TRNAMT": "-13.10",
+                "FITID": "64e1c6f4-bbed-4ee0-97cb-1650c7a1e1d5",
+                "MEMO": "99app *99app"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230821000000[-3:GMT]",
+                "TRNAMT": "-122.70",
+                "FITID": "64e25094-f8ce-4238-9778-6eb50edf2348",
+                "MEMO": "Galeto Prensado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230820000000[-3:GMT]",
+                "TRNAMT": "-8.90",
+                "FITID": "64e0f812-e480-44d3-a6a9-ff71021f3695",
+                "MEMO": "Amazon Music"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230820000000[-3:GMT]",
+                "TRNAMT": "-18.00",
+                "FITID": "64e1390e-25db-4daf-9948-6f62492d43ba",
+                "MEMO": "Topet'S"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230820000000[-3:GMT]",
+                "TRNAMT": "-6.08",
+                "FITID": "64e15fde-58d7-4800-990b-8d0f9fd1beae",
+                "MEMO": "99app *99app"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230820000000[-3:GMT]",
+                "TRNAMT": "-12.50",
+                "FITID": "64e1349f-c126-4367-90c3-6dd66cd84910",
+                "MEMO": "Pag*Postoalpha5"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230819000000[-3:GMT]",
+                "TRNAMT": "-54.50",
+                "FITID": "64df9586-4c2d-4c67-ac2c-131faad9a8ec",
+                "MEMO": "Tempero Quente"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230819000000[-3:GMT]",
+                "TRNAMT": "-2.00",
+                "FITID": "64dff92f-637c-40f9-9d70-96a437d63812",
+                "MEMO": "Riomar Aracaju Parking"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230819000000[-3:GMT]",
+                "TRNAMT": "-10.37",
+                "FITID": "64dffe53-137d-49af-80a0-f3f795f23a5f",
+                "MEMO": "Pague Menos"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230819000000[-3:GMT]",
+                "TRNAMT": "-34.98",
+                "FITID": "64df99d2-0bfb-4a6f-9486-6fecbf5d09df",
+                "MEMO": "Jesse Embalagens"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230819000000[-3:GMT]",
+                "TRNAMT": "-15.50",
+                "FITID": "64dffff7-32c2-40d6-8a94-4ef47b35c691",
+                "MEMO": "Sorveteria Moniery"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230818000000[-3:GMT]",
+                "TRNAMT": "-43.00",
+                "FITID": "64de715f-3f86-4ac8-8419-be0ccb5b68b8",
+                "MEMO": "Farmacia Poupe Mais"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230817000000[-3:GMT]",
+                "TRNAMT": "-12.30",
+                "FITID": "64dd4649-935e-461d-8ec2-05c9ba6c94c6",
+                "MEMO": "Drogaria Ftb Atalaia"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230817000000[-3:GMT]",
+                "TRNAMT": "-39.80",
+                "FITID": "64dd8241-0398-477a-9aac-44204be11504",
+                "MEMO": "Orla Drive"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230817000000[-3:GMT]",
+                "TRNAMT": "-39.24",
+                "FITID": "64dcf3e2-60fc-4f58-b92d-61e3a037d9e3",
+                "MEMO": "Aracaju Goncalo Prado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230817000000[-3:GMT]",
+                "TRNAMT": "-20.09",
+                "FITID": "64dcf428-b48f-4c4e-86c6-9f0dc9d51c4a",
+                "MEMO": "Aracaju Goncalo Prado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230816000000[-3:GMT]",
+                "TRNAMT": "-134.39",
+                "FITID": "64dbf565-0988-4a26-bd0a-786857d40f97",
+                "MEMO": "Filial Ecoposto 1/2"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230816000000[-3:GMT]",
+                "TRNAMT": "-8.64",
+                "FITID": "64dbd415-e376-4db1-bddd-e3cd1a6bb57a",
+                "MEMO": "99* Pop 15ago 16h37min"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230816000000[-3:GMT]",
+                "TRNAMT": "-14.98",
+                "FITID": "64dc2d9e-12f5-4bae-be26-68bc9049df26",
+                "MEMO": "Uber *Uber *Trip"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230815000000[-3:GMT]",
+                "TRNAMT": "-57.20",
+                "FITID": "64d7d2c3-e53d-473b-bad9-e6eda84c5771",
+                "MEMO": "Amazon-Marketplace"
+              },
+              {
+                "TRNTYPE": "CREDIT",
+                "DTPOSTED": "20230815000000[-3:GMT]",
+                "TRNAMT": "37.51",
+                "FITID": "64db2fe1-c478-4120-b5c3-1ce8b721ee40",
+                "MEMO": "Estorno de \"Amazon-Marketplace\""
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230815000000[-3:GMT]",
+                "TRNAMT": "-31.80",
+                "FITID": "64d9a17a-1f86-4e9a-ba12-de94f56ff7f6",
+                "MEMO": "Amazon.Com.Br"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230815000000[-3:GMT]",
+                "TRNAMT": "-11.00",
+                "FITID": "64d9f4f3-13ed-432e-9e73-3cd00cbb1511",
+                "MEMO": "Panificadora Ki Sabor"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230814000000[-3:GMT]",
+                "TRNAMT": "-96.70",
+                "FITID": "64d8e5a2-de6c-4c85-9307-f099eacfcd6b",
+                "MEMO": "Galeto Prensado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230813000000[-3:GMT]",
+                "TRNAMT": "-93.70",
+                "FITID": "64d79d4e-e047-47e2-bf4d-c44c5bd35138",
+                "MEMO": "Galeto Prensado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230812000000[-3:GMT]",
+                "TRNAMT": "-25.00",
+                "FITID": "64d6c7ae-48a2-4f36-b42d-1fb8a17f1426",
+                "MEMO": "Mercatto Sol Nascente"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230812000000[-3:GMT]",
+                "TRNAMT": "-54.15",
+                "FITID": "64d69813-9493-4f28-b474-9793df55f9db",
+                "MEMO": "Lojas Pinguim"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230811000000[-3:GMT]",
+                "TRNAMT": "-44.55",
+                "FITID": "64d556b6-1ea2-44db-80cb-723b468020bf",
+                "MEMO": "Elisa Supermercado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230811000000[-3:GMT]",
+                "TRNAMT": "-139.30",
+                "FITID": "64d59c99-03bd-4aa9-884d-60779fe187cf",
+                "MEMO": "Dm *Nintendo"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230811000000[-3:GMT]",
+                "TRNAMT": "-24.66",
+                "FITID": "64d3eaaa-5764-4fb4-8223-3cd778c27460",
+                "MEMO": "Amazon.Com.Br"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230811000000[-3:GMT]",
+                "TRNAMT": "-37.64",
+                "FITID": "64d4ff37-966d-49e4-9535-4d794a80e6a6",
+                "MEMO": "Ebn *Sonyplaystatn"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230810000000[-3:GMT]",
+                "TRNAMT": "-37.44",
+                "FITID": "64d4296f-dca6-44ed-9eb7-e6d7d5379f99",
+                "MEMO": "Point das Bebidas"
+              },
+              {
+                "TRNTYPE": "CREDIT",
+                "DTPOSTED": "20230810000000[-3:GMT]",
+                "TRNAMT": "5121.90",
+                "FITID": "64d4e33b-f44d-4794-ba46-cd3545db7733",
+                "MEMO": "Pagamento recebido"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230809000000[-3:GMT]",
+                "TRNAMT": "-5.79",
+                "FITID": "64d25dfb-31b1-4519-bfce-ce7a1ec13216",
+                "MEMO": "Bompreco Jardins"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230809000000[-3:GMT]",
+                "TRNAMT": "-109.67",
+                "FITID": "64d2d0ce-b83c-4142-85c9-fb9b4f14ab1c",
+                "MEMO": "Pag*Mmdd"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230808000000[-3:GMT]",
+                "TRNAMT": "-35.29",
+                "FITID": "64d19b18-7dd7-4caf-b407-95502260fa3d",
+                "MEMO": "Pague Menos"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230806000000[-3:GMT]",
+                "TRNAMT": "-6.99",
+                "FITID": "64cd1556-3516-4ce1-aa18-13673342e799",
+                "MEMO": "Google Storage"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230806000000[-3:GMT]",
+                "TRNAMT": "-93.70",
+                "FITID": "64ce75cd-5241-4b0b-ab69-f899cd8d0543",
+                "MEMO": "Galeto Prensado"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230804000000[-3:GMT]",
+                "TRNAMT": "-32.85",
+                "FITID": "64cc00a2-6d7d-43fb-91f7-c44d890fa5cf",
+                "MEMO": "Point das Bebidas"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-102.29",
+                "FITID": "64c527e0-e41c-4526-94ec-3e481a8fb381",
+                "MEMO": "Pag*Petrox 2/2"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-57.25",
+                "FITID": "646b7f03-b2e4-40a4-b82b-6efd498afe4c",
+                "MEMO": "Amazon Marketplace 4/4"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-241.43",
+                "FITID": "63d9406a-6d44-4725-bb03-f632e3d5d13d",
+                "MEMO": "Kabum 8/10"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-55.54",
+                "FITID": "63dfa7cd-a195-4917-af3b-06b0606e8265",
+                "MEMO": "Amazon 7/9"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-34.95",
+                "FITID": "64bbc49f-8fa2-44cf-b699-a759e5677550",
+                "MEMO": "Farmacia do Trabalhado 2/4"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-248.33",
+                "FITID": "6437bbe1-2052-4643-b31f-989fe9595d1a",
+                "MEMO": "Pg *Knowledge21 5/12"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-264.83",
+                "FITID": "64b5b275-9d73-41e9-8a02-bc8a9cb050ec",
+                "MEMO": "Vx Case 2/6"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-434.48",
+                "FITID": "63de7e79-336e-42ee-9459-fe5039edacbb",
+                "MEMO": "Amazon Marketplace 7/10"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-37.59",
+                "FITID": "64b27a7b-8d5f-4fa2-a21e-2bbd75523055",
+                "MEMO": "Farmacia do Trabalhado 2/4"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-37.26",
+                "FITID": "64c42f6b-dfba-4b94-b92a-71add15dcb9d",
+                "MEMO": "Assai Atacadista 2/2"
+              },
+              {
+                "TRNTYPE": "DEBIT",
+                "DTPOSTED": "20230803000000[-3:GMT]",
+                "TRNAMT": "-194.62",
+                "FITID": "64597f7d-a33d-482c-8ff3-33db5a7f051d",
+                "MEMO": "Latam Site 4/4"
+              }
+            ]
+          },
+          "LEDGERBAL": {
+            "BALAMT": "-4293.70",
+            "DTASOF": "20230903000000[-3:GMT]"
+          }
+        }
+      }
+    }
+  },
+  "header": {
+    "OFXHEADER": "100",
+    "DATA": "OFXSGML",
+    "VERSION": "102",
+    "SECURITY": "NONE",
+    "ENCODING": "USASCII",
+    "CHARSET": "1252",
+    "COMPRESSION": "NONE",
+    "OLDFILEUID": "NONE",
+    "NEWFILEUID": "NONE"
+  }
+}
